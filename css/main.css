@@ -36,3 +36,8 @@
   padding: 12px 30px;
   margin: 25px 550px;
 }
+
+.para::first-line{
+tex
+color: #3fbbc0;
+}
